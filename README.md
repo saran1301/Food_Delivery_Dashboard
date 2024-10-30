@@ -1,6 +1,4 @@
-# The-Zomato-Dashboard-using-Power-BI
-
-🌟 Welcome to the Zomato Power BI Dashboard Project! 📊🍽️
+# The-Food-Delivery-Analytics-Dashboard-using-Power-BI
 
 In this project, we explore valuable insights gleaned from analyzing Zomato's data using Power BI, a powerful business intelligence tool.
 
@@ -8,7 +6,7 @@ In this project, we explore valuable insights gleaned from analyzing Zomato's da
 
 By leveraging Power BI's data visualization and exploration capabilities, we were able to gain valuable insights into Zomato's operations, including:
 
-- **Order Distribution by City:** Zomato operates in over 150,000 cities, with a significant presence in major cities like Tirupati, Electronic City (Baner, Pune), Raipur, and Malviya Nagar.
+- **Order Distribution by City:** Zomato operates in over 50+ cities, with a significant presence in major cities like Tirupati, Electronic City (Baner, Pune), Raipur, and Malviya Nagar.
 - **Order Volume:** Zomato has processed over 150,000 orders, highlighting its popularity among Indian consumers.
 - **Sales by Year:** Witnessed a steady increase in sales year-over-year, indicating a growing customer base.
 - **Sales by Category:** Vegetarian food options account for the highest sales on Zomato, followed by non-vegetarian and other categories.
@@ -31,7 +29,7 @@ This dashboard offers a comprehensive analysis of restaurant ratings, sales tren
 
 ### Zomato Overview:
 
-- The company is providing services in 150,281 locations and has connected with 100,000 restaurants, from which it has received 150,281 orders.
+- The company is providing services in 50+ locations and has connected with 100,000 restaurants, from which it has received 150,281 orders.
 
 ### Key Metrics:
 
@@ -58,11 +56,9 @@ This dashboard offers a comprehensive analysis of restaurant ratings, sales tren
 
 This project offers actionable insights to optimize operations, enhance user experience, and drive business growth in the competitive food delivery landscape.
 
-Let's connect and explore opportunities to leverage analytics for your business success!
-
 #PowerBI #DataAnalytics #ZomatoAnalysis #BusinessIntelligence #DataVisualization
 
 
-![image](https://github.com/Ganeshkarwa/-The-Zomato-Dashboard-using-Power-BI-/assets/140792447/98c5b00f-c7ab-48c1-903b-5a5b064d4c0a)
+![image]
 
 
