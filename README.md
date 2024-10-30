@@ -1,6 +1,8 @@
 # The-Food-Delivery-Analytics-Dashboard-using-Power-BI
 
 In this project, we explore valuable insights gleaned from analyzing Zomato's data using Power BI, a powerful business intelligence tool.
+### Home Page
+![image](https://github.com/saran1301/Food_Delivery_Dashboard/blob/8d63bc667aef79a1bb3253fc2cec4c8ceb1822e0/src/reports/Food_Analysis_Dashboard_Pg_2.jpg)
 
 ## Project Overview
 
