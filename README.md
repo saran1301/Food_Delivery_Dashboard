@@ -59,6 +59,18 @@ This project offers actionable insights to optimize operations, enhance user exp
 #PowerBI #DataAnalytics #ZomatoAnalysis #BusinessIntelligence #DataVisualization
 
 # Dashboard Pages : 
-![image]https://github.com/saran1301/Food_Delivery_Dashboard/blob/8d63bc667aef79a1bb3253fc2cec4c8ceb1822e0/src/reports/Food_Analysis_Dashboard_Pg_2.jpg
+
+## Home Page
+![image](https://github.com/saran1301/Food_Delivery_Dashboard/blob/8d63bc667aef79a1bb3253fc2cec4c8ceb1822e0/src/reports/Food_Analysis_Dashboard_Pg_2.jpg)
+### Quantity Filter Applied
+![image](https://github.com/saran1301/Food_Delivery_Dashboard/blob/8d63bc667aef79a1bb3253fc2cec4c8ceb1822e0/src/reports/Food_Analysis_Dashboard_Pg_2_Qty_filter.jpg)
+
+## User Performance Page
+![image](https://github.com/saran1301/Food_Delivery_Dashboard/blob/8d63bc667aef79a1bb3253fc2cec4c8ceb1822e0/src/reports/Food_Analysis_Dashboard_Pg_3.jpg)
+### Male Category Selected
+![image](https://github.com/saran1301/Food_Delivery_Dashboard/blob/8d63bc667aef79a1bb3253fc2cec4c8ceb1822e0/src/reports/Food_Analysis_Dashboard_Pg_3_Male.jpg)
+
+## City wise Performance Page
+![image](https://github.com/saran1301/Food_Delivery_Dashboard/blob/8d63bc667aef79a1bb3253fc2cec4c8ceb1822e0/src/reports/Food_Analysis_Dashboard_Pg_4(City_Performance).jpg)
 
 
