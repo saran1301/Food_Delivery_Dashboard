@@ -58,7 +58,7 @@ This project offers actionable insights to optimize operations, enhance user exp
 
 #PowerBI #DataAnalytics #ZomatoAnalysis #BusinessIntelligence #DataVisualization
 
-
-![image]
+# Dashboard Pages : 
+![image]https://github.com/saran1301/Food_Delivery_Dashboard/blob/8d63bc667aef79a1bb3253fc2cec4c8ceb1822e0/src/reports/Food_Analysis_Dashboard_Pg_2.jpg
 
 
